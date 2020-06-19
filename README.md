@@ -1,6 +1,6 @@
- I have implemented haar cascade classifier using opencv which can detect face in any image provided.
+I have implemented haar cascade classifier using opencv which can detect face,eyes & smile  in any image provided including video
  
- Problem:Detect face in an image provided
+Problem:Detect face,eyes & smile in an image provided
 
 Results:
 ![](jonsnowfacedetection.jpg)
