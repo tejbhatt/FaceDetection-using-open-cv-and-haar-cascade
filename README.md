@@ -3,6 +3,5 @@
  Problem:Detect face in an image provided
 
 Results:
-![](tejfacedetection.jpg)
 ![](jonsnowfacedetection.jpg)
 ![](podrickfacedetection.jpg)
